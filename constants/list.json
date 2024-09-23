@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Mechanical Keyboard",
+    "value": 120.99,
+    "category": "KEYBOARD",
+    "stock": 15,
+    "available": true,
+    "features": ["RGB Lighting", "Mechanical Switches", "USB-C Connection"]
+  },
+  {
+    "id": 2,
+    "name": "Wireless Mouse",
+    "value": 45.5,
+    "category": "MOUSE",
+    "stock": 30,
+    "available": true,
+    "features": ["Wireless", "Adjustable DPI", "Ergonomic Design"]
+  },
+  {
+    "id": 3,
+    "name": "Curved Monitor",
+    "value": 250.0,
+    "category": "MONITOR",
+    "stock": 10,
+    "available": false,
+    "features": ["144Hz Refresh Rate", "Curved Screen", "4K Resolution"]
+  },
+  {
+    "id": 4,
+    "name": "Gaming Keyboard",
+    "value": 89.99,
+    "category": "KEYBOARD",
+    "stock": 5,
+    "available": true,
+    "features": ["Anti-Ghosting", "Programmable Keys", "Backlit Keys"]
+  },
+  {
+    "id": 5,
+    "name": "Ergonomic Mouse",
+    "value": 65.0,
+    "category": "MOUSE",
+    "stock": 20,
+    "available": true,
+    "features": ["Ergonomic Shape", "Wireless", "Silent Clicks"]
+  },
+  {
+    "id": 6,
+    "name": "Ultrawide Monitor",
+    "value": 350.75,
+    "category": "MONITOR",
+    "stock": 7,
+    "available": true,
+    "features": ["Ultrawide", "IPS Panel", "HDR Support"]
+  },
+  {
+    "id": 7,
+    "name": "Office Keyboard",
+    "value": 40.0,
+    "category": "KEYBOARD",
+    "stock": 25,
+    "available": true,
+    "features": ["Silent Keys", "Wireless", "Compact Design"]
+  },
+  {
+    "id": 8,
+    "name": "Gaming Mouse",
+    "value": 55.0,
+    "category": "MOUSE",
+    "stock": 18,
+    "available": true,
+    "features": ["Adjustable DPI", "RGB Lighting", "Extra Side Buttons"]
+  },
+  {
+    "id": 9,
+    "name": "Professional Monitor",
+    "value": 450.0,
+    "category": "MONITOR",
+    "stock": 3,
+    "available": false,
+    "features": ["5K Resolution", "Color Calibration", "USB-C Connection"]
+  },
+  {
+    "id": 10,
+    "name": "Budget Keyboard",
+    "value": 25.0,
+    "category": "KEYBOARD",
+    "stock": 50,
+    "available": true,
+    "features": ["Affordable", "Wired Connection", "Basic Layout"]
+  }
+]
